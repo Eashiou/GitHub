@@ -1,6 +1,7 @@
-public class HelloWorld {
-	private String names;
-	private int hp;
-	private int offense;
-	private int defense;
+public class HelloWorld 
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Hello World¡????????");
+	}
 }
